@@ -2,6 +2,7 @@ This repository contains all the tasks completed as part of my Data Analytics In
 The projects focus on data cleaning, exploratory data analysis, sentiment analysis, visualization, and insight generation using Python.
 
 Task 1: Sentiment Analysis
+
 🔹 Description
 
 The goal of this project is to analyze textual data and classify sentiments into Positive, Negative, and Neutral to understand public opinion and customer feedback.
@@ -39,6 +40,7 @@ Insightful sentiment distribution
 
 
 Task 2: Exploratory Data Analysis (EDA) on Retail Sales Data
+
 🔹 Description
 
 This project focuses on performing Exploratory Data Analysis (EDA) on retail sales data to uncover trends, patterns, and actionable business insights.
@@ -84,6 +86,7 @@ Visualizations (bar charts, line plots, heatmaps)
 Business recommendations
 
 Task 3: Unveiling the Android App Market
+
 🔹 Description
 
 This project analyzes Google Play Store data to understand app market dynamics, category distribution, ratings, installs, and overall trends.
