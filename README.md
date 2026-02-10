@@ -1,7 +1,7 @@
 This repository contains all the tasks completed as part of my Data Analytics Internship at Oasis Infobyte (OIBSIP).
 The projects focus on data cleaning, exploratory data analysis, sentiment analysis, visualization, and insight generation using Python.
 
-Task 1: Sentiment Analysis
+# Task 1: Sentiment Analysis
 
 🔹 Description
 
@@ -39,7 +39,7 @@ Sentiment-labeled datasets
 Insightful sentiment distribution
 
 
-Task 2: Exploratory Data Analysis (EDA) on Retail Sales Data
+# Task 2: Exploratory Data Analysis (EDA) on Retail Sales Data
 
 🔹 Description
 
@@ -85,7 +85,7 @@ Visualizations (bar charts, line plots, heatmaps)
 
 Business recommendations
 
-Task 3: Unveiling the Android App Market
+# Task 3: Unveiling the Android App Market
 
 🔹 Description
 
